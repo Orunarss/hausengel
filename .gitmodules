@@ -1,0 +1,4 @@
+[submodule "base_report_to_printer"]
+	path = base_report_to_printer
+	url = git@github.com:OCA/report-print-send.git
+	branch = 12.0
